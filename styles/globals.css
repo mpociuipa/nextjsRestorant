@@ -1,0 +1,21 @@
+/* styles/globals.css */
+
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Default font and background color */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  /* Global link styles */
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
